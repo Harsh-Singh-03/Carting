@@ -7,7 +7,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 149999.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/product1.jpg" } } }
         }
       },
       {
@@ -17,7 +17,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 49999.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/new.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/new.jpg" } } }
         }
       },
       {
@@ -27,7 +27,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 14999.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/1img.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/1img.jpg" } } }
         }
       },
       {
@@ -37,7 +37,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 1.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/3img.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/3img.jpg" } } }
         }
       },
       {
@@ -47,7 +47,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 2.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/img2.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/img2.jpg" } } }
         }
       },
       {
@@ -57,7 +57,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 4.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/product1.jpg" } } }
         }
       },
       {
@@ -67,7 +67,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 5.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/product1.jpg" } } }
         }
       },
       {
@@ -77,7 +77,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 10.00,
           "display":"=> Super amoled Gurrilla glass 5 display :",
-          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/product1.jpg" } } }
         }
       },
       {
@@ -87,7 +87,7 @@
           "camera":"=> 64MP quad cam :",
           "price": 0.0,
           "display":"Super amoled Gurrilla glass5",
-          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+          "image": { "fields": { "file": { "url": "img/product1.jpg" } } }
         }
       }
     ]
