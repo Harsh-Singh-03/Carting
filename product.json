@@ -1,0 +1,94 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Samsung Galaxy ZFold",
+          "camera":"=> 64MP quad cam :",
+          "price": 149999.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "One plus nord",
+          "camera":"=> 64MP quad cam :",
+          "price": 49999.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/new.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Realme 7",
+          "camera":"=> 64MP quad cam :",
+          "price": 14999.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/1img.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Iphone 13 pro",
+          "camera":"=> 64MP quad cam :",
+          "price": 1.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/3img.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Mobile",
+          "camera":"=> 64MP quad cam :",
+          "price": 2.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/img2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Mobile",
+          "camera":"=> 64MP quad cam :",
+          "price": 4.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "mobile",
+          "camera":"=> 64MP quad cam :",
+          "price": 5.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "mobile",
+          "camera":"=> 64MP quad cam :",
+          "price": 10.00,
+          "display":"=> Super amoled Gurrilla glass 5 display :",
+          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "mobile",
+          "camera":"=> 64MP quad cam :",
+          "price": 0.0,
+          "display":"Super amoled Gurrilla glass5",
+          "image": { "fields": { "file": { "url": "/img/product1.jpg" } } }
+        }
+      }
+    ]
+  }
